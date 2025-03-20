@@ -53,9 +53,9 @@
 
 ## 参考资料
 
-[1]eBPF. https://ebpf.io/
-[2]bpf performance tools. https://github.com/iovisor/bcc
-[3]BPF reference guide. https://docs.cilium.io/en/stable/bpf/
-[4]Falco. https://falco.org/docs/getting-started/
-[5]Zou Z, Xie Y, Huang K, et al. A docker container anomaly monitoring system based on optimized isolation forest[J]. IEEE Transactions on Cloud Computing, 2019, 10(1): 134-145.
-[6]Zhang J, Chen P, He Z, et al. Real-Time Intrusion Detection and Prevention with Neural Network in Kernel Using eBPF[C]//2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN). IEEE, 2024: 416-428.
+- eBPF. https://ebpf.io/
+- bpf performance tools. https://github.com/iovisor/bcc
+- BPF reference guide. https://docs.cilium.io/en/stable/bpf/
+- Falco. https://falco.org/docs/getting-started/
+- Zou Z, Xie Y, Huang K, et al. A docker container anomaly monitoring system based on optimized isolation forest[J]. IEEE Transactions on Cloud Computing, 2019, 10(1): 134-145.
+- Zhang J, Chen P, He Z, et al. Real-Time Intrusion Detection and Prevention with Neural Network in Kernel Using eBPF[C]//2024 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN). IEEE, 2024: 416-428.
